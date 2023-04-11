@@ -1,0 +1,9 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Madrid", "Rome", "Berlin"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Venus", "Jupiter"]}]
